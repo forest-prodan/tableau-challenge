@@ -1,0 +1,12 @@
+NYC Maps 
+- Most trips originate and end on Manhattan island and in the approximate center of the service area.
+
+Weekday Detail 
+- On weekdays, rush hour (7-9 am and 4-6 pm) had the highest volume of trips, while peak time on the weekends is closer to noon.
+
+- Thursdays have the highest trip volume, closely followed by Wednesdays.
+
+Weather Detail 
+- On weeks with spikes in precipitation, trips decrease.
+
+- As the temperature drops towards the end of 2023, trips begin to drop off. 
